@@ -48,6 +48,6 @@ We would like you to have well over 200 commits by graduation, so commit early a
 You are required to submit the following:
 
 * the URL to the deployed application
-
+https://nostalgic-wing-291eea.netlify.app/
 * the URL to the Github repository
 
